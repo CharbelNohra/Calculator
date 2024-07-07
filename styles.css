@@ -35,12 +35,14 @@ body {
     font-size: 24px;
     color: #000;
     padding-right: 10px;
+    overflow: hidden;
 }
 
 .current-operand {
     font-size: 48px;
     color: #000;
     padding-right: 10px;
+    overflow: hidden;
 }
 
 button {
