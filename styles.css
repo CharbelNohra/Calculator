@@ -28,19 +28,19 @@ body {
     background-color: lightgray;
     border-radius: 10px;
     margin-bottom: 10px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+    text-align: right;
 }
 
 .previous-operand {
     font-size: 24px;
     color: #000;
+    padding-right: 10px;
 }
 
 .current-operand {
     font-size: 48px;
     color: #000;
+    padding-right: 10px;
 }
 
 button {
